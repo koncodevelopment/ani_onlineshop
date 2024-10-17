@@ -1,0 +1,8 @@
+body{
+    /* background-color: aqua; */
+    margin: 0px;
+}
+nav{
+    background-image: linear-gradient( #99c40a, #e9f5c1);
+    height: 70px;
+}
